@@ -6,6 +6,7 @@
 -->
 
 # Introduction to GitHub
+## Skill to learn of gitugb
 
 _Get started using GitHub in less than an hour._
 
